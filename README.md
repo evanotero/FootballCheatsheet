@@ -12,7 +12,7 @@ Features
 - Schedule includes past and future games.  Past games are updated with the result after game time has expired.
 
 
-**Currently supported teams**:
+**Currently supported clubs**:
 
 ![BPL Icon](http://i.imgur.com/k0lssqx.png)
 - *Barclay's Premier League*
