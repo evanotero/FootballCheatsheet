@@ -2,7 +2,7 @@
  * @author Evan Otero
  * 
  * This class collects JSON responses from the football-data API in regards to current
- * fixtures and standings in the BPL and La Liga.  Using the GSON library,
+ * fixtures and standings in the BPL and LFP.  Using the GSON library,
  * the JSON is deserialized.
  * 
  */
