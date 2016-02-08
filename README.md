@@ -29,5 +29,5 @@ Features
 **Planned Features:**
 - Support for the Bundesliga, Major League Soccer, French Ligue 1, Italian Serie A, and more.
 - Support for more timezones.
-- Improve GUI
-- Add domestic cup matches to schedule
+- Improved GUI.
+- Add support for domestic cup matches in team schedule.
