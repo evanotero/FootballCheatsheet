@@ -275,7 +275,7 @@ public class MainApplication {
       // Quit Button
       frame.addButtonListener(2, new ActionListener() {
          public void actionPerformed(ActionEvent e){
-            System.exit(1);
+            System.exit(0);
          }
       });
       
