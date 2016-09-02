@@ -7,7 +7,7 @@ Football Cheatsheet is a java application using the football-data.org api to dis
 Features
 --------------
 - 9 timezones are supported.
-- Game times are updated upon announcment.
+- Game times are updated upon announcement.
 - League tables include games played, total points, wins, draws, losses, goals forced, goals allowed, and goal difference
 - Schedule includes past and future games.  Past games are updated with the result after game time has expired.
 
